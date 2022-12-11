@@ -37,12 +37,13 @@ Note: Handling missing values from the data will improve the quality of the data
 ## Exploring
 Data Exploring is a combination of Art and Science. We need to ask the right kind of question and use the right tool to analyze the results.
 I divided this project into the following categories
-**Univariate Feature Analysis**
+## Univariate Feature Analysis**
  a. Distribution
  b. Anomaly or Outlier Detection 
-**Multivariate Feature Analysis** 
+## Multivariate Feature Analysis** 
 a. Correlation
  b. Dependence
+
 **Univariate Feature Analysis**
 As the name suggests, dealing with one feature at a time.
 we need to visualize how the data looks and is distributed among the dataset.
