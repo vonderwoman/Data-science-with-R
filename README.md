@@ -81,11 +81,16 @@ This is the backbone of this project. ggplot2 is the most popular data visualiza
 
 ## Tasks
 **Plotting the trips by the hours in a day**
+
 **Plotting data by trips during every day of the month**
+
 **Number of Trips taking place during months in a year**
+
 **Finding out the number of Trips by bases**
+
 **Creating a Heatmap visualization of day, hour and month**
-** Creating a map visualization of rides in New York**
+
+**Creating a map visualization of rides in New York**
 
 *Conclusion*
 At the end of the Uber data analysis R project, we observed how to create data visualizations. 
