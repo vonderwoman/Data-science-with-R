@@ -93,7 +93,7 @@ This is the backbone of this project. ggplot2 is the most popular data visualiza
 **Creating a map visualization of rides in New York**
 
 *Conclusion*
-At the end of the Uber data analysis R project, we observed how to create data visualizations. 
+At the end of the Uber data analysis R project, we observed how to create data visualizations in R
 
 
 
